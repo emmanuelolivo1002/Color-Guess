@@ -17,3 +17,10 @@ h1 {
   float: left;
   margin: 1.66%;
 }
+
+#stripe {
+  background: white;
+  height: 30px;
+  text-align: center;
+  color: black;
+}
